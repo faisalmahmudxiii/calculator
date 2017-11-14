@@ -1,3 +1,5 @@
+
+// this is the model class.
 package application;
 
 public class Model {
